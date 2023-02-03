@@ -10,4 +10,5 @@ data class GameSettings(
     val minPercentOfRightAnswers : Int,
     val gameTimeInSeconds : Int
 ) : Parcelable {
+
 }
